@@ -28,7 +28,6 @@ namespace ContosoCrafts.WebSite.Services
                     });
             }
         }
-<<<<<<< HEAD
 
         public void AddRating(string productId, int rating)
         {
@@ -59,7 +58,5 @@ namespace ContosoCrafts.WebSite.Services
                     products);
             }
         }
-=======
->>>>>>> 2a5f4c08b5e86072ba700fc84f4cf725919eba53
     }
 }
